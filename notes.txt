@@ -53,6 +53,7 @@ user -> repository -> issue (dependent setup)
 
 API ENDPOINTS 
 
-user 
-repository 
-issue
+user routes :
+repository routes :
+issue routes :
+
