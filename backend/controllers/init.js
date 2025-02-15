@@ -12,6 +12,7 @@ async function initRepo() {
       path.join(repoPath, "config.json"),
       JSON.stringify({ bucket: process.env.S3_BUCKET })
     );
+    console.log("repository initialised");
   } catch (err) {
     console.error("error initializing the repository");
   }
