@@ -38,7 +38,7 @@ use the npm package yargs to read console commands
 
 FRONETEND COMPONENTS 
 
-1. Authentication
+1. Authentication (signup, signin)
 2. Dashboard 
 3. Repository
 4. Issues
