@@ -83,3 +83,6 @@ we have to initialize a new folder for the user and then create a json for the m
 
 add.js -> functionality 
 we have to get the path of the file from the user and get the name of the file , copy it and pass the file to the staging area
+
+commit.js -> functionality
+we have to copy all the files in the staging area and then store them in the commits folder with a commit message
