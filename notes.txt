@@ -88,3 +88,6 @@ commit.js -> functionality
 we have to copy all the files in the staging area and then store them in the commits folder with a commit message
 
 SETTING UP AWS S3
+
+create an AWS account 
+create a new S3 bucket 
