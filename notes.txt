@@ -42,3 +42,9 @@ FRONETEND COMPONENTS
 2. Dashboard 
 3. Repository
 4. Issues
+
+SCHEMA AND MODEL 
+
+1. user schema
+2. repository schema 
+3. issues schema
