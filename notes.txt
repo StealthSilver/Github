@@ -35,3 +35,10 @@ CONSOLE COMMANDS
 6. revert
 
 use the npm package yargs to read console commands
+
+FRONETEND COMPONENTS 
+
+1. Authentication
+2. Dashboard 
+3. Repository
+4. Issues
