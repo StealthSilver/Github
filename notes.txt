@@ -19,3 +19,7 @@ JEST
 AWS (S3, EC2, AMPLIFY)
 
 Planning the project structure
+1. Console commands
+2. Frontend Components
+3. Database schema and model
+4. API Endpoint
