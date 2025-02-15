@@ -38,7 +38,9 @@ yargs(hideBin(process.argv))
         type: "string",
       });
     }, // parameters required
-    commitRepo // which function to call
+    (argv) => {
+      commitRepo(argv.message);
+    } // which function to call, the argument will contain the message
   )
   .command(
     "push", // name of the command
