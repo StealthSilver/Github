@@ -1,5 +1,1 @@
-async function initRepo() {
-  console.log("init command called");
-}
-
-module.exports = { initRepo };
+const fs = require("fs").promises;
