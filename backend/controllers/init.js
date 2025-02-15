@@ -2,4 +2,4 @@ function initRepo() {
   console.log("init command called");
 }
 
-module.exports = initRepo;
+module.exports = { initRepo };
