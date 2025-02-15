@@ -62,3 +62,4 @@ STARTING THE PROGRAMMING
 1. create a folder named backend 
 2. in the backend folder (cd backend)
 3. initialize a node repo (npm init)
+4. in the package.json replace the test script with ("start": "node index.js")
