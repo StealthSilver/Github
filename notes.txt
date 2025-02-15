@@ -77,3 +77,6 @@ index.js -> functionality
 
 we have to make all the terminal commands functional
 and add the functions that need to be called when user adds to commands the terminal
+
+init.js -> functionality
+we have to initialize a new folder for the user and then create a json for the metadata and a folder inside that one for the commits
