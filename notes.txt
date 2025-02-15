@@ -23,3 +23,13 @@ Planning the project structure
 2. Frontend Components
 3. Database schema and model
 4. API Endpoint
+
+
+CONSOLE COMMANDS 
+
+1. init
+2. add file.txt
+3. commit <>
+4. push
+5. pull
+6. revert
