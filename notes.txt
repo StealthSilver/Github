@@ -74,3 +74,6 @@ this is the basic folder structure
 in the index.js import yargs 
 
 index.js -> functionality
+
+we have to make all the terminal commands functional
+and add the functions that need to be called when user adds to commands the terminal
