@@ -50,3 +50,10 @@ SCHEMA AND MODEL
 3. issues schema
 
 user -> repository -> issue (dependent setup)
+
+API ENDPOINTS 
+
+user 
+repository 
+main 
+issue
