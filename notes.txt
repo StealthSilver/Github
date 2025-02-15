@@ -18,3 +18,4 @@ JEST
 6. DEPLOYMENT
 AWS (S3, EC2, AMPLIFY)
 
+Planning the project structure
