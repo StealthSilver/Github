@@ -80,3 +80,6 @@ and add the functions that need to be called when user adds to commands the term
 
 init.js -> functionality
 we have to initialize a new folder for the user and then create a json for the metadata and a folder inside that one for the commits
+
+add.js -> functionality 
+we have to get the path of the file from the user and get the name of the file , copy it and pass the file to the staging area
