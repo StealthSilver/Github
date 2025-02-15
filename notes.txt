@@ -55,5 +55,4 @@ API ENDPOINTS
 
 user 
 repository 
-main 
 issue
