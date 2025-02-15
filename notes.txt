@@ -86,3 +86,5 @@ we have to get the path of the file from the user and get the name of the file ,
 
 commit.js -> functionality
 we have to copy all the files in the staging area and then store them in the commits folder with a commit message
+
+SETTING UP AWS S3
