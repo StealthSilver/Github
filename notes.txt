@@ -33,3 +33,5 @@ CONSOLE COMMANDS
 4. push
 5. pull
 6. revert
+
+use the npm package yargs to read console commands
