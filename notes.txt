@@ -71,4 +71,6 @@ do npm install yargs
 
 this is the basic folder structure
 
-in the index.js import yargs
+in the index.js import yargs 
+
+index.js -> functionality
