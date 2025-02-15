@@ -66,3 +66,5 @@ STARTING THE PROGRAMMING
 5. create the new file index.js -> this will be the entry file
 6. create a folder named config and a file in it named aws-config.js 
 7. create a folder named controller and add add, init, commit, pull, push, revert files
+
+do npm install yargs
