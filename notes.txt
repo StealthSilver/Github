@@ -68,3 +68,5 @@ STARTING THE PROGRAMMING
 7. create a folder named controller and add add, init, commit, pull, push, revert files
 
 do npm install yargs
+
+this is the basic folder structure
