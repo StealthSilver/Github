@@ -64,3 +64,5 @@ STARTING THE PROGRAMMING
 3. initialize a node repo (npm init)
 4. in the package.json replace the test script with ("start": "node index.js")
 5. create the new file index.js -> this will be the entry file
+6. create a folder named config and a file in it named aws-config.js 
+7. create a folder named controller and add add, init, commit, pull, push, revert files
