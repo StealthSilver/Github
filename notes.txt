@@ -48,3 +48,5 @@ SCHEMA AND MODEL
 1. user schema
 2. repository schema 
 3. issues schema
+
+user -> repository -> issue (dependent setup)
